@@ -1,4 +1,5 @@
 /*
+https://forum.gamer.com.tw/Co.php?bsn=04918&sn=218043&author=jamessl2
 一個視窗之所以能夠顯現出來，在RPG MAKER裡最主要依靠兩大架構：
 Window：負責視窗本身的參數和內容
 Scene：負責視窗各種運作和互動

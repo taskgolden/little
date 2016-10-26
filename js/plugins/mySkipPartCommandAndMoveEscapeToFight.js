@@ -1,3 +1,4 @@
+//http://forum.chaos-project.com/index.php?topic=15230.0
 // This command runs the Function automatically without being called.
 (function(){
     var params = PluginManager.parameters('SOUL_SkipPartyCommand');
